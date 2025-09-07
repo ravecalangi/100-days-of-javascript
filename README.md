@@ -7,4 +7,6 @@ Each folder has one project, mostly small problems I encounter in a day and thin
 
 ## Progress
 - ✅ Day 1 – Egg Boil Timer
+- ✅ Day 2 – Unit Converter
+
 
