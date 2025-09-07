@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.converter-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin: 100px auto;
+    max-width: 400px;
+}
+
+.converter-container div button {
+    padding: 10px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.length-buttons {
+    width: 200px;
+    padding: 5px;
+    margin-bottom: 4px;
+    cursor: pointer;
+}
+
+#title {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+#unavailable-message {
+    font-size: 12px;
+}
