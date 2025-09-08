@@ -1,6 +1,7 @@
 # 100 Days of JavaScript
 
 A collection of JavaScript snippets and mini projects for 100 days.
+
 Each folder has a small project based on problems I run into day to day.
 
 ## Progress
