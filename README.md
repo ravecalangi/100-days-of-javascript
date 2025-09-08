@@ -9,6 +9,7 @@ Each folder has one project, mostly small problems I encounter in a day and thin
 - ✅ Day 1 – Egg Boil Timer
 - ✅ Day 2 – Unit Converter
 - ✅ Day 3 – Bill Splitter
+- ⏳ Day 4 – Coming Soon
 
 
 
