@@ -8,7 +8,8 @@ Each folder has a small project based on problems I run into day to day.
 - ✅ Day 1 – Egg Boil Timer
 - ✅ Day 2 – Unit Converter
 - ✅ Day 3 – Bill Splitter
-- ⏳ Day 4 – Coming Soon
+- ✅ Day 4 – SIM Network Detector
+- ⏳ Day 5 – Unlocking Soon
 
 
 
