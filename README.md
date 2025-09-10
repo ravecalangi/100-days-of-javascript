@@ -9,7 +9,8 @@ Each folder has a small project based on problems I run into day to day.
 - ✅ Day 2 – Unit Converter
 - ✅ Day 3 – Bill Splitter
 - ✅ Day 4 – SIM Network Detector
-- ⏳ Day 5 – In Progress
+- ✅ Day 5 – Grade Calculator
+- ⏳ Day 6 – In Progress
 
 
 
