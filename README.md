@@ -10,7 +10,8 @@ Each folder has a small project based on problems I run into day to day.
 - ✅ Day 3 – Bill Splitter
 - ✅ Day 4 – SIM Network Detector
 - ✅ Day 5 – Grade Calculator
-- ⏳ Day 6 – In Progress
+- ✅ Day 6 – Dark Mode Toggle
+- ⏳ Day 7 – In Progress
 
 
 
