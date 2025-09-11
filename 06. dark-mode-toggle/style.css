@@ -1,0 +1,15 @@
+
+.toggle-button{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.toggle-button i{
+    font-size: 24px;
+    cursor: pointer;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
