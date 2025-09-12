@@ -11,7 +11,8 @@ Each folder has a small project based on problems I run into day to day.
 - ✅ Day 4 – SIM Network Detector
 - ✅ Day 5 – Grade Calculator
 - ✅ Day 6 – Dark Mode Toggle
-- ⏳ Day 7 – In Progress
+- ✅ Day 7 – Stopwatch Timer
+- ⏳ Day 8 – In Progress
 
 
 
