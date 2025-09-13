@@ -2,7 +2,7 @@
 
 A collection of JavaScript snippets and mini projects for 100 days.
 
-Each folder has a small project based on problems I run into day to day.
+Each folder contains a small project based on common problems that many people may encounter day to day, and I just try to find ways to solve them by coding.
 
 ## Progress
 - ✅ Day 1 – Egg Boil Timer
