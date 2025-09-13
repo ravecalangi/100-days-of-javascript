@@ -12,7 +12,8 @@ Each folder has a small project based on problems I run into day to day.
 - ✅ Day 5 – Grade Calculator
 - ✅ Day 6 – Dark Mode Toggle
 - ✅ Day 7 – Stopwatch Timer
-- ⏳ Day 8 – In Progress
+- ✅ Day 8 – Even Odd Checker
+- ⏳ Day 9 – In Progress
 
 
 
