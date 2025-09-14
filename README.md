@@ -11,7 +11,8 @@ A collection of JavaScript snippets and mini projects for 100 days.
 - ✅ Day 6 – Dark Mode Toggle
 - ✅ Day 7 – Stopwatch Timer
 - ✅ Day 8 – Even Odd Checker
-- ⏳ Day 9 – In Progress
+- ✅ Day 9 – Simple Calculator
+- ⏳ Day 10 – In Progress
 
 
 
