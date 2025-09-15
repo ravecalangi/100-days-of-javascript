@@ -12,7 +12,7 @@ A collection of JavaScript snippets and mini projects for 100 days.
 - ✅ Day 07 ‎– Stopwatch Timer
 - ✅ Day 08 ‎– Even Odd Checker
 - ✅ Day 09 ‎– Simple Calculator
-- ⏳ Day 10 – Days Between Dates
+- ✅ Day 10 – Days Between Dates
 - ⏳ Day 11 – In Progress
 
 
