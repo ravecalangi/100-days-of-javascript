@@ -13,7 +13,8 @@ A collection of JavaScript snippets and mini projects for 100 days.
 - ✅ Day 08 ‎– Even Odd Checker
 - ✅ Day 09 ‎– Simple Calculator
 - ✅ Day 10 – Days Between Dates
-- ⏳ Day 11 – In Progress
+- ✅ Day 11 – Simple Bank
+- ⏳ Day 12 – In Progress
 
 
 
