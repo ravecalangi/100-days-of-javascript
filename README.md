@@ -14,7 +14,8 @@ A collection of JavaScript snippets and mini projects for 100 days.
 - ✅ Day 09 ‎– Simple Calculator
 - ✅ Day 10 – Days Between Dates
 - ✅ Day 11 – Simple Bank
-- ⏳ Day 12 – In Progress
+- ✅ Day 12 – Show Password
+- ⏳ Day 13 – In Progress
 
 
 
