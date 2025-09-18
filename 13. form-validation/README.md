@@ -37,4 +37,15 @@ A JavaScript-based form validation script that checks user inputs for name, phon
 3. Once all fields are valid, the form can be submitted successfully.
 
 **Example Input/Output:**
-- Input:  
+- Input:
+Name: Juan Dela Cruz
+Phone: 9123456789
+Email: juandelacruz@gmail.com
+
+Message: This is a sample message with more than twenty characters.
+
+- Output:  
+All fields display ✅ check icons, and form is ready to submit.
+
+## License
+MIT License
