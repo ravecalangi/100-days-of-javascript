@@ -38,9 +38,9 @@ A JavaScript-based form validation script that checks user inputs for name, phon
 
 **Example Input/Output:**
 - Input:
-Name: Juan Dela Cruz
+Name: Rave Calangi
 Phone: 9123456789
-Email: juandelacruz@gmail.com
+Email: justincalangi@gmail.com
 
 Message: This is a sample message with more than twenty characters.
 
