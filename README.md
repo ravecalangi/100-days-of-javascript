@@ -15,7 +15,8 @@ A collection of JavaScript snippets and mini projects for 100 days.
 - ✅ Day 10 – Days Between Dates
 - ✅ Day 11 – Simple Bank
 - ✅ Day 12 – Show Password
-- ⏳ Day 13 – In Progress
+- ✅ Day 13 – Form Validation
+- ⏳ Day 14 – In Progress
 
 
 
