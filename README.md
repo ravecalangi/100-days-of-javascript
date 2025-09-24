@@ -1,6 +1,6 @@
 # 100 Days of JavaScript
 
-A collection of JavaScript snippets and mini projects for 100 days
+A collection of JavaScript snippets and mini projects for 100 days.
 
 ## Progress
 - ✅ Day 01 – Egg Boil Timer
