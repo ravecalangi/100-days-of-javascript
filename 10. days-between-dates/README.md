@@ -12,7 +12,7 @@
 ## Technologies Used
 - JavaScript
 - HTML (for DOM elements and inputs)
-- CSS (for styling, if included in project)
+- CSS (for styling)
 
 ## How to Run
 1. Clone or download the project folder.
