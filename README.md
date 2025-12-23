@@ -17,7 +17,8 @@ A collection of JavaScript snippets and mini projects for 100 days
 - ✅ Day 12 – Show Password
 - ✅ Day 13 – Form Validation
 - ✅ Day 14 – Contact Form
-- ⏳ Day 15 – In Progress
+- ✅ Day 15 – Weather App
+- ⏳ Day 16 – In Progress
 
 
 
