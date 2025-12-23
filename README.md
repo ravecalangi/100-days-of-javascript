@@ -18,7 +18,8 @@ A collection of JavaScript snippets and mini projects for 100 days
 - ✅ Day 13 – Form Validation
 - ✅ Day 14 – Contact Form
 - ✅ Day 15 – Weather App
-- ⏳ Day 16 – In Progress
+- ✅ Day 16 – Pokemon Finder
+- ⏳ Day 17 – In Progress
 
 
 
