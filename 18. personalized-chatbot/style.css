@@ -1,0 +1,104 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: #333;
+    color: white;
+    box-sizing: border-box;
+}
+
+.chatbot-main-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.chatbot-wrapper {
+    width: 600px;
+    height: 400px;
+    background-color: #555;
+    padding: 10px;
+    margin-bottom: 20px;
+    overflow-y: auto;
+    border-radius: 10px;
+}
+
+.chatbot {
+    text-align: left;
+    margin: 10px 0;
+}
+
+.user {
+    text-align: right;
+    margin: 10px 0;
+}
+
+.chatbot-message-container {
+    display: flex;
+    gap: 10px;
+    width: 600px;
+}
+
+#user-message-input {
+    flex: 1;
+    padding: 6px 10px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+}
+
+#send-btn {
+    padding: 6px 14px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: #0a84ff;
+    color: white;
+    font-weight: bold;
+}
+
+#send-btn:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.btn-loading {
+    display: none;
+}
+
+#send-btn.loading .btn-text {
+    display: none;
+}
+
+#send-btn.loading .btn-loading {
+    display: inline;
+}
+
+/* Typing animation with 3 dots */
+.typing {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    margin-left: 10px;
+    font-size: 16px;
+}
+
+.typing span {
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    background-color: white;
+    border-radius: 50%;
+    animation: blink 1.4s infinite both;
+}
+
+.typing span:nth-child(1) { animation-delay: 0s; }
+.typing span:nth-child(2) { animation-delay: 0.2s; }
+.typing span:nth-child(3) { animation-delay: 0.4s; }
+
+@keyframes blink {
+    0%, 80%, 100% { opacity: 0; }
+    40% { opacity: 1; }
+}
