@@ -21,7 +21,8 @@ A collection of JavaScript snippets and mini projects for 100 days
 - ✅ Day 16 – Pokemon Finder
 - ✅ Day 17 – Joke Generator
 - ✅ Day 18 – Personalized Chatbot
-- ⏳ Day 19 – In Progress
+- ✅ Day 19 – Text to Speech Converter
+- ⏳ Day 20 – In Progress
 
 
 
